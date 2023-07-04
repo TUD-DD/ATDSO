@@ -1,2 +1,2 @@
 # ATOF
-Six SD pairs of trajectory sets.
+Six pairs of OD trajectory sets and their labels.
